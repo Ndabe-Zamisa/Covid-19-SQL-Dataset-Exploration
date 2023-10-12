@@ -26,7 +26,7 @@ Before getting started with this project, ensure you have the following prerequi
 - [Visual Studio Code](https://code.visualstudio.com/) installed.
 - An SQL extension installed in VS Code, such as [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql).
 - Access to an SQL database system (e.g., Microsoft SQL Server, PostgreSQL, MySQL).
-- A relational database containing COVID-19 data, including tables for cases, deaths, and vaccinations.
+- A relational database containing COVID-19 data, including tables for cases, deaths, and vaccinations available at (https://drive.google.com/drive/u/0/folders/1Y8g9fuFlZpFfUhO6U85PMsZTe6xuTjqP).
 
 ## Setup
 
@@ -70,7 +70,7 @@ The project includes the following SQL queries:
 
 ## Data Source
 
-The COVID-19 data used in this project is sourced from a relational database(https://ourworldindata.org/covid-deaths). Ensure that you have access to this database and that it's regularly updated to maintain the accuracy of the analysis.
+The COVID-19 data used in this project is sourced from a relational database(https://drive.google.com/drive/u/0/folders/1Y8g9fuFlZpFfUhO6U85PMsZTe6xuTjqP). Ensure that you have access to this database and that it's regularly updated to maintain the accuracy of the analysis.
 
 ## Results
 
